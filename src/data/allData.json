@@ -176,5 +176,6 @@
     }
   ],
   "music1": "./music/music1.mp3",
-  "music2": "./music/music2.mp3"
+  "music2": "./music/music2.mp3",
+  "music3": "./music/music3.mp3"
 }

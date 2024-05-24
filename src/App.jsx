@@ -45,7 +45,7 @@ const App = () => {
           ref={playerRef}
           loop
           volume={0.2}
-          src={allData.music1}
+          src={allData.music3}
           customAdditionalControls={[]}
           customVolumeControls={[]}
           showJumpControls={false}
@@ -58,7 +58,7 @@ const App = () => {
           {/* Page Heading */}
           <div className='text-center text-4xl xsm:text-6xl mb-8 pt-8 sm:pt-0 '>
             <p>To</p>
-            <p className='text-stone-200'>Ayush Bansal</p>
+            <p className='text-stone-200'>🐵 Sinu 🐒</p>
           </div>
 
           {/* Page Content */}
@@ -66,8 +66,8 @@ const App = () => {
             <p>ना पहुंच पाए तुम तक कोई आघात, बस ख़ुशियों ही ख़ुशियों की हो बरसात। हासिल हो तुमको तुम्हारे सारे मुक़ाम, रोशन करो तुम जग में अपनों का खूब नाम।</p>
             <p>जन्मदिन की शुभकामनाएँ दिल से तुम्हें, खुशियों की बगिया महके सदा तुम्हारे गले में। सपनों के सितारे यूँ ही चमकते रहें, हर खुशी का पल तुम्हारे जीवन में बसे। </p>
             <p className='font-bold text-center text-4xl xsm:text-6xl text-pink-300'>🎉🎂🥳</p>
-            <p className='font-bold text-center text-4xl xsm:text-6xl text-pink-300'>जन्मदिन मुबारक! 🌸 </p>
-            <p className='text-center text-stone-200'>~ Anshika Jaiswal ~</p>
+            <p className='font-bold text-center text-4xl xsm:text-6xl text-pink-300'>Happy Birthday 🌸 </p>
+            <p className='text-center text-stone-200'>~ 😺 Bandariya 🙈 ~</p>
           </div>
         </div>
 
