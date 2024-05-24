@@ -1,0 +1,64 @@
+{
+  "images": [
+    {
+      "alt": "Image1's alt text",
+      "caption": "Image1's description",
+      "src": "https://picsum.photos/200/300"
+    },
+    {
+      "alt": "Image2's alt text",
+      "caption": "Image1's description",
+      "src": "https://picsum.photos/200/300"
+    },
+    {
+      "alt": "Image3's alt text",
+      "caption": "Image1's description",
+      "src": "https://picsum.photos/200/300"
+    },
+    {
+      "alt": "Image1's alt text",
+      "caption": "Image1's description",
+      "src": "https://picsum.photos/200/300"
+    },
+    {
+      "alt": "Image2's alt text",
+      "caption": "Image1's description",
+      "src": "https://picsum.photos/200/300"
+    },
+    {
+      "alt": "Image3's alt text",
+      "caption": "Image1's description",
+      "src": "https://picsum.photos/200/300"
+    },
+    {
+      "alt": "Image1's alt text",
+      "caption": "Image1's description",
+      "src": "https://fastly.picsum.photos/id/288/536/354.jpg?hmac=0_DALLGv6guhuEVpDdbFjlA-yvbIhMjnl1YhHtfhW10"
+    },
+    {
+      "alt": "Image2's alt text",
+      "caption": "Image1's description",
+      "src": "https://fastly.picsum.photos/id/155/200/300.jpg?hmac=nG5WHfEXcJmld5FbH0N9bGciE9a57S0bgIHHTpxag7o"
+    },
+    {
+      "alt": "Image3's alt text",
+      "caption": "Image1's description",
+      "src": "https://fastly.picsum.photos/id/168/200/300.jpg?hmac=ILU5dddz6ohoQEq3_1fmoy2wEFfM1V1JfjLX_JsbOz0"
+    },
+    {
+      "alt": "Image1's alt text",
+      "caption": "Image1's description",
+      "src": "https://picsum.photos/200/300"
+    },
+    {
+      "alt": "Image2's alt text",
+      "caption": "Image1's description",
+      "src": "https://picsum.photos/200/300"
+    },
+    {
+      "alt": "Image3's alt text",
+      "caption": "Image1's description",
+      "src": "https://picsum.photos/200/300"
+    }
+  ]
+}
